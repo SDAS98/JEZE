@@ -1,4 +1,4 @@
-# VocaLink — Audio Social Network 🎙️
+# JEZE — Audio Social Network 🎙️
 
 > **Red social y plataforma de comunicación basada en audio, diseñada con un modelo híbrido (Asíncrono + En Vivo) y enfoque prioritario en accesibilidad universal para personas con discapacidad visual o baja visión.**
 
