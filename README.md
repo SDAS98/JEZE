@@ -90,6 +90,8 @@ Cumplimiento de estándares **WCAG 2.1 Nivel AAA**:
   └───▶ [IA Speech Worker - OpenAI Whisper / AWS Transcribe]
           │── Transcripción asíncrona, detección de idioma y resúmenes
 
+---
+
 ## 6. Estructura del Repositorio
 vocalink/
 ├── docs/                      # Documentación de arquitectura y guías A11y
@@ -109,6 +111,8 @@ vocalink/
 ├── live-engine/               # Configuración del servidor SFU (LiveKit)
 ├── docker-compose.yml         # Entorno local de desarrollo
 └── README.md                  # Especificación general del proyecto
+
+---
 
 ## 7. Hoja de Ruta (Roadmap)
 
