@@ -17,15 +17,25 @@
 
 ## 1. Visión y Descripción
 
+<<<<<<< HEAD
 **JEZE** nace para transformar la manera en que nos comunicamos en línea, sustituyendo el texto y las pantallas sobrecargadas por el poder de la voz humana. 
 
 A diferencia de las plataformas tradicionales de podcasts o redes sociales visuales, JEZE está enfocada en la **comunicación conversacional fluida**. Ha sido concebida bajo el principio de **"Accesibilidad Primero" (Accessibility-First)**, garantizando que usuarios ciegos o con visión reducida disfruten de una experiencia nativa, ágil y autónoma, sin barreras de interfaz.
+=======
+**VocaLink** nace para transformar la manera en que nos comunicamos en línea, sustituyendo el texto y las pantallas sobrecargadas por el poder de la voz humana. 
+
+A diferencia de las plataformas tradicionales de podcasts o redes sociales visuales, VocaLink está enfocada en la **comunicación conversacional fluida**. Ha sido concebida bajo el principio de **"Accesibilidad Primero" (Accessibility-First)**, garantizando que usuarios ciegos o con visión reducida disfruten de una experiencia nativa, ágil y autónoma, sin barreras de interfaz.
+>>>>>>> 041cc8fa2e1e5afe35ec8d2a74e1e919dff3293a
 
 ---
 
 ## 2. Enfoque Híbrido
 
+<<<<<<< HEAD
 JEZE combina dos modalidades de comunicación para adaptarse a cada necesidad:
+=======
+VocaLink combina dos modalidades de comunicación para adaptarse a cada necesidad:
+>>>>>>> 041cc8fa2e1e5afe35ec8d2a74e1e919dff3293a
 
 | Dimensión | Módulo Asíncrono (Núcleo Principal) | Módulo En Vivo (Secundario / Eventos) |
 | :--- | :--- | :--- |

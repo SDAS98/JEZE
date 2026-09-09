@@ -45,6 +45,6 @@ async def update_preferences(
     if not user:
         raise HTTPException(status_code=404, detail="Usuario no encontrado")
     
-    user.preferred_playback_speed = prefs.preferred_playback_speed
+    user.preferred_playback_speed = prefs.preferred_playback_speed  # type: ignore
     await db.commit()
     return {"message": "Preferencias de accesibilidad actualizadas con éxito"}

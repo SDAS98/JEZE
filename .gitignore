@@ -1,0 +1,15 @@
+# Archivos de sistema y entorno
+.DS_Store
+.env
+*.log
+
+# Dependencias (Node/Python/C#)
+node_modules/
+__pycache__/
+*.pyc
+bin/
+obj/
+
+# Archivos de build
+dist/
+build/
