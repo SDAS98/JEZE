@@ -13,3 +13,5 @@ obj/
 # Archivos de build
 dist/
 build/
+node_modules/
+frontend/node_modules/
